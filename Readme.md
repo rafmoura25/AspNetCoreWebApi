@@ -3,7 +3,7 @@
 # SmartSchool
 > Web Api - .net core 3.1 / EF Core 3.1
 
-Projeto criado a partir da Curso:
+Projeto criado a partir do Curso:
 https://www.udemy.com/course/criando-web-api-com-aspnet-core-31-ef-core-31/
 
 ## Instalação / Primeiros Passos
